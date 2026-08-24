@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "72ca4415-0813-45bc-b112-00290a7d9ace",
+  "path": "postgresql-table-design",
+  "path_key": "postgresql-table-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "wshobson/agents/postgresql-table-design",
+    "subpath": "plugins\\database-design\\skills\\postgresql",
+    "branch": null
+  }
+}
