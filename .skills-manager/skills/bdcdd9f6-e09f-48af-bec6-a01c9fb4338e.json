@@ -4,7 +4,9 @@
   "path": "skill-creator",
   "path_key": "skill-creator",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "蒸馏建立Skill"
+  ],
   "source": {
     "type": "local",
     "ref": null,
