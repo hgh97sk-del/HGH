@@ -4,7 +4,10 @@
   "path": "postgresql-table-design",
   "path_key": "postgresql-table-design",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "Postgresql",
+    "SQL优化"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "wshobson/agents/postgresql-table-design",
