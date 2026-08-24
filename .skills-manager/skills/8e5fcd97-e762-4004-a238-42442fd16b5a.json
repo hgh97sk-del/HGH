@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "8e5fcd97-e762-4004-a238-42442fd16b5a",
+  "path": "database",
+  "path_key": "database",
+  "enabled": true,
+  "tags": [
+    "Oracle"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
