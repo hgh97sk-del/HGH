@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "bad35d26-face-44a0-b159-d4ab7f2affdf",
+  "path": "humanizer-zh",
+  "path_key": "humanizer-zh",
+  "enabled": true,
+  "tags": [
+    "文本内容优化"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "op7418/humanizer-zh/humanizer-zh",
+    "subpath": null,
+    "branch": null
+  }
+}
