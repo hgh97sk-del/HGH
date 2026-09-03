@@ -11,7 +11,7 @@
   "source": {
     "type": "skillssh",
     "ref": "wshobson/agents/postgresql-table-design",
-    "subpath": "plugins\\database-design\\skills\\postgresql",
+    "subpath": "plugins\\database-design\\skills\\postgresql-table-design",
     "branch": null
   }
 }
